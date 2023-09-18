@@ -8,5 +8,6 @@ RPC_BY_CHAIN={
     'ETHEREUM':'https://rpc.ankr.com/eth',
     'OPTIMISM':'https://rpc.ankr.com/optimism',
     'AVALANCHE':'https://api.avax.network/ext/bc/C/rpc',
-    'BSC':'https://rpc.ankr.com/bsc'
+    'BSC':'https://rpc.ankr.com/bsc',
+    'ZKSYNC_ERA':'https://zksync.drpc.org',
 }
